@@ -222,7 +222,6 @@ Objetivo nivel 1: Lempira debe llegar a nivel 3
 7.2 Sistema de Guardado
 Datos guardados por slot:
 
-json
 {
   "slot_numero": 1,
   "timestamp_guardado": "2024-01-01T10:30:00",
